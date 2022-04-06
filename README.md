@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Os temas darks, que servem para poupar os olhos para aqueles que passam longas horas na frente do computador. Para o desenvolvimento dessa página de login foi utilizado utilizado apenas HTML e CSS.
+Os temas darks, servem para poupar os olhos para aqueles que passam longas horas na frente do computador. Para o desenvolvimento dessa página de login foi utilizado utilizado apenas HTML e CSS.
 
 
 ---
